@@ -5,7 +5,7 @@ A comprehensive MATLAB application for multi-dimensional data visualization, sta
 
 Author: Muralidharan Mani
 
-📋 Table of Contents
+Table of Contents
 Overview
 
 Key Features
@@ -34,12 +34,12 @@ Citation
 
 License
 
-🔬 Overview
+Overview
 Scientist Data Suite is a powerful MATLAB-based interactive application designed for researchers and data scientists who need to explore, visualize, and analyze complex datasets. The tool excels at handling multi-dimensional data with intuitive controls for mapping variables to visual properties (X, Y, group, size, color) and supports a wide range of plot types from simple scatter plots to complex 4D visualizations and IC50 curve fitting.
 
 Built with a clean, professional interface, this application streamlines the data analysis workflow from import to publication-quality exports.
 
-✨ Key Features
+ Key Features
 Feature Category	Capabilities
 Data Import	Multi-file Excel/CSV import, sheet selection, range selection, data preview
 Data Processing	Z-score normalization, Min-Max scaling, outlier filtering, data subsetting
@@ -61,7 +61,7 @@ Statistics and Machine Learning Toolbox (for advanced statistics and curve fitti
 
 MATLAB base system
 
-📦 Installation Guide
+ Installation Guide
 Step 1: Save the Application
 Save the DataVisualizationApp1.m class definition file to your MATLAB working directory.
 
@@ -232,7 +232,7 @@ Click "Run Stats"
 
 Results appear in dialog box
 
-🔧 Data Processing
+ Data Processing
 Range Selection Tool
 Click "Select Range"
 
@@ -364,14 +364,14 @@ Author: Muralidharan Mani
 
 For questions, bug reports, or feature requests, please open an issue on GitHub or contact the author directly.
 
-🙏 Acknowledgments
+ Acknowledgments
 MATLAB Development Team at MathWorks
 
 Contributors to the Statistics and Machine Learning Toolbox
 
 Beta testers and collaborators who provided valuable feedback
 
-🔄 Version History
+ Version History
 Version	Date	Changes
 1.0.0	2024	Initial release with core functionality
 1.1.0	2024	Added multi-select for X/Y, tiled layouts
