@@ -1,4 +1,4 @@
-#Advanced-4D-Data-Visualization-Analysis-Tool
+# Scientist Data Suite (R Shiny)
 
 Shiny port of the MATLAB "Scientist Data Suite": import Excel/CSV, preprocess, plot
 (scatter 4D, multi-X/Y, time series, bar, box, heatmap, IC50 4PL), run statistics and
