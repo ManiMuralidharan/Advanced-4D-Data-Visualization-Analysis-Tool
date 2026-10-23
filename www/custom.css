@@ -1,0 +1,12 @@
+/* custom.css - sidebar and status styling */
+.bslib-sidebar-layout > .sidebar { overflow-y: auto; }
+.accordion-button { font-weight: 600; }
+.data-info { font-size: 0.85rem; color: #555; margin-top: 4px; }
+.status-line pre {
+  font-size: 0.8rem;
+  background: #f7f9fb;
+  border: 1px solid #e3e8ee;
+  white-space: pre-wrap;
+  margin-top: 8px;
+}
+.form-group { margin-bottom: 0.6rem; }
